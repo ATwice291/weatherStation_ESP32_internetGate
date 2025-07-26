@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/CMakeFiles/bootloader
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/CMakeFiles/bootloader.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/CMakeFiles/bootloader-complete.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/_work/_Projects/electro_devices/weatherStation/ESP32_internet_gate/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
